@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@300&family=Roboto+Condensed:wght@300;700&family=Roboto+Mono:wght@300;500&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: 'martian mono',monospace;
+}
+
+header{
+    padding-top: 5px ;
+    padding-bottom: 5px;
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+
+}
+
+.imagem1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    background-color: #042e1f;
+}
+
+.biografia{
+    background-color: #042e1f;
+    
+}
+.biografia p{
+    margin: 0 auto;
+    width: 60%;
+    margin-bottom: 20px;
+    color: aliceblue;
+}
+
+.title2{
+    padding-bottom: 20px;
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+}
+
+.discografia{
+    background-color: #B0E0E6;
+    padding-bottom: 5px ;
+}
+
+.box1{
+    margin: 20px;
+    justify-content: center;
+    display: flex;
+}
+
+.line1{
+    margin: 10px 10px;
+    padding: 10px 10px 10px;
+    justify-content: center;
+    background-color: white;
+}
+
+.box2{
+    margin: 20px;
+    justify-content: center;
+    display: flex;
+}
+
+.line2{
+    margin: 10px 10px;
+    padding: 10px 10px 10px;
+    justify-content: center;
+    background-color: white;
+}
+
+.end{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
